@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khater</h1>
 <h3 align="center">A Software engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.gifdb.com/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif">
+<img align="right" alt="Coding" width="400" src="[https://media.gifdb.com/programming-angry-punching-keyboard-fw45yh2e39g24ylb.gif](https://www.bing.com/images/search?view=detailV2&id=3C26513E105C09365D88D1C665683C88BE7ADE36&thid=OIP.XFTt7n-7DSwFxvRL5GDIawAAAA&mediaurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2f6fL4ZqndWKpOM%2fgiphy.gif&exph=231&expw=450&q=programming+gif+funny&simid=608030893142078784&ck=088EB2E50DAF864048C275C59A48FFA9&itb=0&FORM=IVCLIG&ajaxhist=0&ajaxserp=0)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-khater&label=Profile%20views&color=0e75b6&style=flat" alt="mo-khater" /> </p>
 
