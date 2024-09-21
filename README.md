@@ -4,8 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-khater&label=Profile%20views&color=0e75b6&style=flat" alt="mo-khater" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mo-khater" alt="mo-khater" /></a> </p>
-
+<p align="left">
+  
 - 🌱 I’m currently learning **flutter and dart**
 
 - 💬 Ask me about **react,express,mongodb and flutter**
@@ -13,6 +13,7 @@
 - 📫 How to reach me **mk0015264@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vj2YFSXLKNGqzWzXM5zVSdW2G8wsc-gv/view?usp=drive_link](https://drive.google.com/file/d/1vj2YFSXLKNGqzWzXM5zVSdW2G8wsc-gv/view?usp=drive_link)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
