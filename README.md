@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Khater</h1>
 <h3 align="center">A Software engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FkbXg1eDZ2NGk0bmdpMjAwN2VrbmNkcGJjeWMxODZveTU3ZTlteCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ll22OhMLAlVDb8UQWe/giphy.gif">
+<img align="right" alt="Coding" width="400" src="<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/2IudUHdI075HL02Pkk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk">via GIPHY</a></p>">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mo-khater&label=Profile%20views&color=0e75b6&style=flat" alt="mo-khater" /> </p>
 
