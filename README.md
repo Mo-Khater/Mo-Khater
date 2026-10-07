@@ -4,10 +4,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<p align="left">
-  <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/animated/giphy.gif">
-
-</p>
 
 ### 👨‍💻 About Me
 
