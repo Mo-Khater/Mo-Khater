@@ -17,7 +17,6 @@
 * 🚀 Currently working on **research projects and practical ML/MLOps projects**.
 * 💬 Ask me about **Python, PyTorch, Machine Learning, RAG, FastAPI, C++, Linux, React, Node.js, and MongoDB**.
 * 📫 Reach me at **[mk0015264@gmail.com](mailto:mk0015264@gmail.com)**
-* 📄 [View my Resume / CV](https://drive.google.com/file/d/1azqT-awjyx9prw8zXiW5x5ulJUhbX7_g/view?usp=drive_link)
 
 ### 🔬 Research & Technical Interests
 
